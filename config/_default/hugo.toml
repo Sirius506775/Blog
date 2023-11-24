@@ -14,7 +14,7 @@ googleAnalytics = "G-FXM711QKT0"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
+  description = "이 블로그는 이동헌의 개발블로그입니다." # Site description. Used in meta description
   # copyright = "John Doe" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
