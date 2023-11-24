@@ -41,7 +41,7 @@ googleAnalytics = "G-FXM711QKT0"
 [Params.logo]
   image = "img/main_profile.jpg" # Logo image. Path relative to "static"
   title = "Im Sirius" # Logo title, otherwise will use site title
-  subtitle = "나를 완성하는 기록 저장소" # Logo subtitle
+  subtitle = "추상화된 개념들을 정립하고 기록" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
