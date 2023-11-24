@@ -15,6 +15,8 @@ weight: 50
 show_comments: true
 katex: false
 draft: true
+authorbox: false
+sidebar: false
 ---
 
 대규모의 사용자가 DB연결을 반복하는 플랫폼을 실행하는 경우에는 Database와 connection을 생성하는 과정 자체가 비용이 많이 들고, 시간이 많이 걸리기 때문에 성능에 영향을 줄 수 있다. 때문에 우리는 성능 향상을 위한 관리가 필요한데 이때 사용할 수 있는 것이 바로 Connection Pool Framework이다.

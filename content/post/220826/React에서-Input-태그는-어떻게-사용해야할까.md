@@ -11,6 +11,8 @@ weight: 50
 show_comments: true
 katex: false
 draft: false
+authorbox: false
+sidebar: false
 ---
 
 ##### React에서 input태그를 사용하는 방법

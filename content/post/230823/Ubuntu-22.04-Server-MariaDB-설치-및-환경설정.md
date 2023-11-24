@@ -13,6 +13,9 @@ weight: 50
 show_comments: true
 katex: false
 draft: false
+authorbox: false
+sidebar: false
+lead : Ubuntu에 MariaDB를 설치해보자
 ---
 > 본문은 Ubuntu-Server 22.04.3 LTS version 환경을 바탕으로 작성한 글이며, 혹시나 잘못된 부분이 있다면 과감하게 댓글 남겨주시면 감사하겠습니다. 
 

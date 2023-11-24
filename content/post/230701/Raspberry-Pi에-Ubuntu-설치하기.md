@@ -9,15 +9,20 @@ tags: [
 categories: [
     'Linux'
 ]
+thumbnail:
+  src: "img/raspberrypi.png"
+  visibility:
+    - list
 weight: 50
 show_comments: true
 katex: false
 draft: false
+lead : 라즈베리파이에 우분투 서버를 설치합니다.
+authorbox: false
+sidebar: false
 ---
 
-백엔드 공부 시에 항시 운영되는 외부 서버와의 통신 환경과 서버 구축 단계를 학습!
-하기 위해 라즈베리 파이를 구매햇다. 
-라즈베리파이에 우분투 서버를 설치해보고자 한다. 
+백엔드 공부 시에 항시 운영되는 외부 서버와의 통신 환경과 서버 구축 단계를 학습하기 위해 라즈베리 파이를 구매했습니다. 
 
 ![](https://velog.velcdn.com/images/sirius506775/post/dd62b4f9-c58f-4556-ad2c-7963a7c1eb93/image.jpg)
 

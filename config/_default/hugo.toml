@@ -10,7 +10,7 @@ googleAnalytics = "G-FXM711QKT0"
 
 [Author]
   name = "Dong Heon Lee"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  bio = "안녕하세요 이동헌입니다."
   avatar = "img/avatar.png"
 
 [Params]
@@ -18,7 +18,7 @@ googleAnalytics = "G-FXM711QKT0"
   # copyright = "John Doe" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  readmore = true # Show "Read more" button in list if true
+  readmore = false # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true

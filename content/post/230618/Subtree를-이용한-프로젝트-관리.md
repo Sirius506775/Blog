@@ -11,6 +11,13 @@ weight: 50
 show_comments: true
 katex: false
 draft: false
+lead : Git Subtree란 뭘까
+authorbox: false
+sidebar: false
+thumbnail:
+  src: "img/git_logo.png"
+  visibility:
+    - list
 ---
 
 ![](https://velog.velcdn.com/images/sirius506775/post/8e762ea4-4499-4f9a-9095-2df87a75fc9c/image.png)

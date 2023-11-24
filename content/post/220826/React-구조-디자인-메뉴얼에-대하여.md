@@ -11,6 +11,8 @@ weight: 50
 show_comments: true
 katex: false
 draft: false
+authorbox: false
+sidebar: false
 ---
 
 ## react는 Dom이 아닌 JavaScript를 중심으로 생각한다.

@@ -11,6 +11,8 @@ weight: 50
 show_comments: true
 katex: false
 draft: false
+authorbox: false
+sidebar: false
 ---
 
 ## useState Hook
