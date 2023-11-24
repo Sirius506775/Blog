@@ -5,7 +5,7 @@ tags: [
     'git'
 ]
 categories: [
-    'git'
+    'Git'
 ]
 weight: 50
 show_comments: true

@@ -1,11 +1,11 @@
 ---
-title: "[React] Input 태그는 어떻게 사용해야할까"
+title: "React에서 Input 태그는 어떻게 사용해야할까"
 date: 2022-08-26T13:10:16+09:00
 tags: [
     'react'
 ]
 categories: [
-    'react'
+    'React'
 ]
 weight: 50
 show_comments: true

@@ -1,5 +1,5 @@
 ---
-title: "Hugo 블로그로 이전했습니다."
+title: "Hugo 블로그로 이전했습니다"
 date: 2023-09-10T04:38:41+09:00
 tags: [
     "hugo",
@@ -12,8 +12,8 @@ draft: false
 authorbox: false
 sidebar: false
 categories:
-  - "essay"
-lead: velog 안녕
+  - "Essay"
+lead: velog는 이제 안녕
 ---
 
 #### 기술블로그를 Velog에서 github.io로 이전한다.

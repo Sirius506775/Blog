@@ -4,7 +4,7 @@ title = 'IM SIRIUS'
 theme = "mainroad"
 enableRobotsTXT = true
 hasCJKLanguage = true
-paginate = 3 # Number of posts per page
+paginate = 5 # 한 페이지에 출력할 게시물 개수
 googleAnalytics = "G-FXM711QKT0" 
 
 
@@ -40,8 +40,8 @@ googleAnalytics = "G-FXM711QKT0"
 
 [Params.logo]
   image = "img/main_profile.jpg" # Logo image. Path relative to "static"
-  title = "I'm Sirius" # Logo title, otherwise will use site title
-  subtitle = "생각을 추상화" # Logo subtitle
+  title = "Im Sirius" # Logo title, otherwise will use site title
+  subtitle = "나를 완성하는 기록 저장소" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility

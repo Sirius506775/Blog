@@ -7,7 +7,7 @@ tags: [
     'ubuntu'
 ]
 categories: [
-    'linux'
+    'Linux'
 ]
 weight: 50
 show_comments: true

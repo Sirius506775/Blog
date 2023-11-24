@@ -5,7 +5,7 @@ tags: [
     'react'
 ]
 categories: [
-    'react'
+    'React'
 ]
 weight: 50
 show_comments: true
